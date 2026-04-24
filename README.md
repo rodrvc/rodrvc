@@ -1,26 +1,32 @@
-<!-- ES -->
-# ¡Hola! Soy Rodrigo Valladares 👋
+<a name="es"></a>
+<p align="right"><a href="#en">🇬🇧 English version ↓</a></p>
 
-**Full Stack Developer | TypeScript · Node.js · Vue**
-Construyendo productos desde Antofagasta, Chile 🇨🇱
+# Rodrigo Valladares
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-valladares-73271a19b/)
-[![GitHub followers](https://img.shields.io/github/followers/rodrvc?style=for-the-badge&logo=github)](https://github.com/rodrvc)
+**Desarrollador Full Stack** — TypeScript · Node.js · Angular · Vue
+Antofagasta, Chile 🇨🇱
 
----
-
-## 🚀 Sobre mí
-
-Soy desarrollador Full Stack con experiencia en **TypeScript**, **Node.js** y ecosistemas modernos de JavaScript. Me apasiona construir herramientas útiles, escribir sobre tecnología y explorar el impacto de los **agentes de IA** en el desarrollo de software.
-
-- 🏢 Actualmente trabajando en **[Linkify](https://linkify.io)**
-- 🌱 Aprendiendo sobre AI agents y developer tooling
-- ✍️ Escribo sobre tecnología en mi [tech blog](https://github.com/rodrvc/tech-blog)
-- 📍 Antofagasta, Chile
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-valladares-73271a19b/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:rodrigo.valladares.dev@gmail.com)
 
 ---
 
-## 🛠️ Stack Tecnológico
+## Perfil Profesional
+
+Desarrollador Full Stack con experiencia en el diseño y desarrollo de aplicaciones web modernas utilizando **TypeScript**, **Node.js**, **Angular** y **Vue**. He trabajado en entornos de alta demanda y me interesa construir software robusto, mantenible y orientado al negocio.
+
+Cuento con conocimientos aplicados en **Inteligencia Artificial**: integración de LLMs, construcción de agentes de IA y automatización de flujos de trabajo con herramientas de IA generativa.
+
+---
+
+## Experiencia
+
+- 🏢 Actualmente en **Falabella** — desarrollo de soluciones para una de las mayores empresas de retail de Latinoamérica
+- 🔗 Anteriormente en **Linkify** — desarrollo de integraciones y herramientas internas
+
+---
+
+## Stack Tecnológico
 
 **Frontend**
 
@@ -34,54 +40,56 @@ Soy desarrollador Full Stack con experiencia en **TypeScript**, **Node.js** y ec
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
 
-**Herramientas**
+**IA & Herramientas**
 
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
 
 ---
 
-## 📌 Proyectos Destacados
+## Proyectos
 
 | Proyecto | Descripción | Stack |
 |----------|-------------|-------|
-| [city-activities-front](https://github.com/rodrvc/city-activities-front) | App de actividades para tu ciudad | TypeScript, Vue |
-| [city-activities-api](https://github.com/rodrvc/city-activities-api) | API REST para actividades de ciudad | TypeScript, Node.js |
-| [tech-blog](https://github.com/rodrvc/tech-blog) | Blog técnico — AI, dev tooling y building in public | Astro |
-| [SSE-VS-GRAPHQL](https://github.com/rodrvc/SSE-VS-GRAPHQL) | Comparativa de tecnologías real-time | JavaScript |
-
----
-
-*¿Buscas un desarrollador comprometido y con ganas de crecer? ¡Hablemos!*
+| [city-activities-front](https://github.com/rodrvc/city-activities-front) | Plataforma de actividades urbanas | TypeScript, Vue |
+| [city-activities-api](https://github.com/rodrvc/city-activities-api) | API REST para la plataforma de actividades | TypeScript, Node.js |
+| [tech-blog](https://github.com/rodrvc/tech-blog) | Blog técnico sobre IA, herramientas y desarrollo | Astro |
+| [SSE-VS-GRAPHQL](https://github.com/rodrvc/SSE-VS-GRAPHQL) | Comparativa técnica de tecnologías real-time | JavaScript |
 
 ---
 ---
 
-<!-- EN -->
-# Hi, I'm Rodrigo Valladares 👋
+<a name="en"></a>
+<p align="right"><a href="#es">🇪🇸 Versión en español ↑</a></p>
 
-**Full Stack Developer | TypeScript · Node.js · Vue**
-Building products from Antofagasta, Chile 🇨🇱
+# Rodrigo Valladares
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-valladares-73271a19b/)
-[![GitHub followers](https://img.shields.io/github/followers/rodrvc?style=for-the-badge&logo=github)](https://github.com/rodrvc)
+**Full Stack Developer** — TypeScript · Node.js · Angular · Vue
+Antofagasta, Chile 🇨🇱
 
----
-
-## 🚀 About me
-
-I'm a Full Stack Developer with experience in **TypeScript**, **Node.js**, and modern JavaScript ecosystems. I'm passionate about building useful tools, writing about technology, and exploring the impact of **AI agents** on software development.
-
-- 🏢 Currently working at **[Linkify](https://linkify.io)**
-- 🌱 Learning about AI agents and developer tooling
-- ✍️ I write about tech on my [tech blog](https://github.com/rodrvc/tech-blog)
-- 📍 Antofagasta, Chile
-- 📫 Open to work — feel free to reach out!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-valladares-73271a19b/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:rodrigo.valladares.dev@gmail.com)
 
 ---
 
-## 🛠️ Tech Stack
+## Professional Profile
+
+Full Stack Developer with experience in designing and building modern web applications using **TypeScript**, **Node.js**, **Angular**, and **Vue**. I have worked in high-demand environments and I focus on building robust, maintainable, and business-oriented software.
+
+I have applied knowledge in **Artificial Intelligence**: LLM integration, building AI agents, and workflow automation using generative AI tooling.
+
+---
+
+## Experience
+
+- 🏢 Currently at **Falabella** — building solutions for one of the largest retail companies in Latin America
+- 🔗 Previously at **Linkify** — developing integrations and internal tooling
+
+---
+
+## Tech Stack
 
 **Frontend**
 
@@ -95,23 +103,24 @@ I'm a Full Stack Developer with experience in **TypeScript**, **Node.js**, and m
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
 
-**Tools**
+**AI & Tools**
 
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
 
 ---
 
-## 📌 Featured Projects
+## Projects
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| [city-activities-front](https://github.com/rodrvc/city-activities-front) | Activities app for your city | TypeScript, Vue |
-| [city-activities-api](https://github.com/rodrvc/city-activities-api) | REST API for city activities | TypeScript, Node.js |
-| [tech-blog](https://github.com/rodrvc/tech-blog) | Tech blog — AI, dev tooling & building in public | Astro |
-| [SSE-VS-GRAPHQL](https://github.com/rodrvc/SSE-VS-GRAPHQL) | Comparison of real-time technologies | JavaScript |
+| [city-activities-front](https://github.com/rodrvc/city-activities-front) | Urban activities platform | TypeScript, Vue |
+| [city-activities-api](https://github.com/rodrvc/city-activities-api) | REST API for the activities platform | TypeScript, Node.js |
+| [tech-blog](https://github.com/rodrvc/tech-blog) | Tech blog on AI, tooling & development | Astro |
+| [SSE-VS-GRAPHQL](https://github.com/rodrvc/SSE-VS-GRAPHQL) | Technical comparison of real-time technologies | JavaScript |
 
 ---
 
-*Looking for a committed developer eager to grow? Let's talk!*
+*Open to new opportunities. Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/rodrigo-valladares-73271a19b/) or [email](mailto:rodrigo.valladares.dev@gmail.com).*
