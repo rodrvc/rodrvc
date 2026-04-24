@@ -1,3 +1,4 @@
+<!-- ES -->
 # ¡Hola! Soy Rodrigo Valladares 👋
 
 **Full Stack Developer | TypeScript · Node.js · Vue**
@@ -24,8 +25,8 @@ Soy desarrollador Full Stack con experiencia en **TypeScript**, **Node.js** y ec
 **Frontend**
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=flat-square&logo=angular&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-%2335495e.svg?style=flat-square&logo=vuedotjs&logoColor=%234FC08D)
-![Astro](https://img.shields.io/badge/Astro-%232C2052.svg?style=flat-square&logo=astro&logoColor=white)
 
 **Backend**
 
@@ -52,11 +53,65 @@ Soy desarrollador Full Stack con experiencia en **TypeScript**, **Node.js** y ec
 
 ---
 
-## 📊 GitHub Stats
+*¿Buscas un desarrollador comprometido y con ganas de crecer? ¡Hablemos!*
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rodrvc&show_icons=true&theme=dark&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rodrvc&layout=compact&theme=dark&hide_border=true)
+---
+---
+
+<!-- EN -->
+# Hi, I'm Rodrigo Valladares 👋
+
+**Full Stack Developer | TypeScript · Node.js · Vue**
+Building products from Antofagasta, Chile 🇨🇱
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-valladares-73271a19b/)
+[![GitHub followers](https://img.shields.io/github/followers/rodrvc?style=for-the-badge&logo=github)](https://github.com/rodrvc)
 
 ---
 
-*¿Buscas un desarrollador comprometido y con ganas de crecer? ¡Hablemos!*
+## 🚀 About me
+
+I'm a Full Stack Developer with experience in **TypeScript**, **Node.js**, and modern JavaScript ecosystems. I'm passionate about building useful tools, writing about technology, and exploring the impact of **AI agents** on software development.
+
+- 🏢 Currently working at **[Linkify](https://linkify.io)**
+- 🌱 Learning about AI agents and developer tooling
+- ✍️ I write about tech on my [tech blog](https://github.com/rodrvc/tech-blog)
+- 📍 Antofagasta, Chile
+- 📫 Open to work — feel free to reach out!
+
+---
+
+## 🛠️ Tech Stack
+
+**Frontend**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=flat-square&logo=angular&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-%2335495e.svg?style=flat-square&logo=vuedotjs&logoColor=%234FC08D)
+
+**Backend**
+
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
+
+**Tools**
+
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
+
+---
+
+## 📌 Featured Projects
+
+| Project | Description | Stack |
+|---------|-------------|-------|
+| [city-activities-front](https://github.com/rodrvc/city-activities-front) | Activities app for your city | TypeScript, Vue |
+| [city-activities-api](https://github.com/rodrvc/city-activities-api) | REST API for city activities | TypeScript, Node.js |
+| [tech-blog](https://github.com/rodrvc/tech-blog) | Tech blog — AI, dev tooling & building in public | Astro |
+| [SSE-VS-GRAPHQL](https://github.com/rodrvc/SSE-VS-GRAPHQL) | Comparison of real-time technologies | JavaScript |
+
+---
+
+*Looking for a committed developer eager to grow? Let's talk!*
