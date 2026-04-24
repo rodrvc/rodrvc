@@ -1,6 +1,6 @@
 # ¡Hola! Soy Rodrigo Valladares 👋
 
-**Full Stack Developer | TypeScript · Node.js · Vue**  
+**Full Stack Developer | TypeScript · Node.js · Vue**
 Construyendo productos desde Antofagasta, Chile 🇨🇱
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-valladares-73271a19b/)
