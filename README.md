@@ -13,7 +13,7 @@ Antofagasta, Chile 🇨🇱
 
 ## Perfil Profesional
 
-Desarrollador Full Stack con 6 años de experiencia construyendo aplicaciones web modernas en entornos de alta demanda, con foco creciente en **inteligencia artificial aplicada a negocio**. He trabajado en plataformas de e-commerce a escala nacional e implementado sistemas de IA en producción: desde agentes autónomos hasta flujos de clasificación y automatización de procesos.
+Desarrollador Full Stack con 6 años de experiencia construyendo aplicaciones web modernas en entornos de alta demanda, con foco creciente en **inteligencia artificial aplicada a negocio**. He trabajado en sistemas de alto tráfico en empresas como Falabella e implementado IA en producción: desde agentes autónomos hasta flujos de clasificación y automatización de procesos.
 
 Combino sólida base full stack con visión arquitectónica para integrar IA donde genera valor real. Construyo software robusto, mantenible y orientado al negocio.
 
@@ -22,7 +22,7 @@ Combino sólida base full stack con visión arquitectónica para integrar IA don
 ## Experiencia
 
 ### 🏢 Falabella *(mar. 2023 – abr. 2026 · 3 años · Híbrido)*
-**Desarrollador de Software** — Desarrollo de soluciones para una de las mayores empresas de retail de Latinoamérica en entorno ágil (Scrum).
+**Desarrollador de Software** — Desarrollo y mantenimiento de sistemas de alto tráfico en Falabella, en entorno ágil (Scrum) y modalidad híbrida.
 
 - Diseñé e implementé un **sistema de ranking** para automatizar validaciones de negocio, reduciendo la intervención manual en procesos críticos
 - Lideré cambios de stack tecnológico con **mejoras significativas de performance**
@@ -131,7 +131,7 @@ Antofagasta, Chile 🇨🇱
 
 ## Professional Profile
 
-Full Stack Developer with 6 years of experience building modern web applications in high-demand environments, with a growing focus on **applied AI for business**. I have worked on national-scale e-commerce platforms and deployed AI systems in production: from autonomous agents to image classification pipelines and workflow automation.
+Full Stack Developer with 6 years of experience building modern web applications in high-demand environments, with a growing focus on **applied AI for business**. I have worked on high-traffic systems at companies like Falabella and deployed AI systems in production: from autonomous agents to image classification pipelines and workflow automation.
 
 I combine a strong full stack foundation with architectural vision to integrate AI where it creates real value. I build robust, maintainable, business-oriented software.
 
@@ -140,7 +140,7 @@ I combine a strong full stack foundation with architectural vision to integrate 
 ## Experience
 
 ### 🏢 Falabella *(Mar. 2023 – Apr. 2026 · 3 years · Hybrid)*
-**Software Developer** — Building solutions for one of the largest retail companies in Latin America in an agile (Scrum) environment.
+**Software Developer** — Development and maintenance of high-traffic systems at Falabella, in an agile (Scrum) environment, hybrid mode.
 
 - Designed and implemented a **ranking system** to automate business validations, reducing manual intervention in critical processes
 - Led tech stack changes that resulted in **significant performance improvements**
